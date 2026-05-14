@@ -1,6 +1,6 @@
 # Welcome to RJDevDen 👋
 
-_"My creations are an expression of my love for gaming, automation, and scripting. I'm glad to have you here!"_
+My creations are an expression of my love for gaming, automation, and scripting. I'm glad to have you here!
 
 My ultimate goal is to help you save time on mundane and repeatable tasks so you can spend it on the activities that actually matter—like playing the games you love. I firmly believe that **"no job is too small to be automated if you have to do it more than once."** I love learning new tools and techniques to automate various activities, and this GitHub organization is where I share those solutions with you.
 
