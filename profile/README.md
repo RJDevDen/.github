@@ -26,27 +26,16 @@ While my current focus is heavily rooted in the game modding scene, my passion f
 
 * **RJLib:** A centralized framework and shared script library mandatory for my tools, built for reusability and efficiency.
 
-(Add more projects here as you build them!)
+more projects to be added ...
 
-🌐 Connect & Support
+## 🌐 Connect & Support
 
 If my tools have saved you time, or if you just want to learn more about modding and automation, you can find me across the web:
 
-* **🎥 YouTube:** Check out my video guides and modding tutorials.
+* 🎥 [**YouTube**](https://www.youtube.com/@RJDevDen): Check out my video guides and modding tutorials.
 
-* **💬 Discord:** Join the community for support, updates, and to chat about scripting.
+* 💬 [**Discord**](https://discord.gg/pF9U5FmD6w): Join the community for support, updates, and to chat about games modding. Look for **RJ** under **rjdevden** channel there.
 
-* **☕ Ko-fi & Patreon:** If you'd like to support the development of these tools, you can find me here!
+* ☕ [**Ko-fi**](https://ko-fi.com/rjdevden) & [**Patreon**](https://www.patreon.com/c/RJDevDen): If you'd like to support the development of these tools, you can find me here!
 
 _“Automate the mundane, enjoy the game.”_
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
