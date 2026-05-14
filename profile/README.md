@@ -24,7 +24,7 @@ While my current focus is heavily rooted in the game modding scene, my passion f
 
 * [**ACE (Automated Compaction & ESLification):**](https://github.com/RJDevDen/ACE) A powerful tool designed to automate the complex and lengthy process of compacting and ESLifying plugins.
 
-* [**RJLib:**](https://github.com/rjshadowface/RJLib) A centralized framework and shared script library mandatory for my tools, built for reusability and efficiency.
+* [**RJLib:**](https://github.com/RJDevDen/RJLib) A centralized framework and shared script library mandatory for my tools, built for reusability and efficiency.
 
 more projects to be added ...
 
